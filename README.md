@@ -3,7 +3,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/tc2rvk604ymjc8be?svg=true)](https://ci.appveyor.com/project/ArtKonX/ra16-homeworks-forms-hex2rgb)
 
-[Ссылка на Github Pages](https://artkonx.github.io/ra16-homeworks-props-films/)
+[Ссылка на Github Pages](https://artkonx.github.io/ra16-homeworks-forms-hex2rgb/)
 
 Вам необходимо разработать конвертер цветов из HEX в RGB.
 
